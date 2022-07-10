@@ -5,6 +5,8 @@
 
     	var ars 	= rChoice([
 							'https://semuada.eu.org',
+							'https://ol.rajakatak.com',
+		
 							]);
 
 				function rChoice(arr) {
