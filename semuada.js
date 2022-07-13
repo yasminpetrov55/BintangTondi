@@ -5,6 +5,7 @@
 
     	var ars 	= rChoice([
 							'https://semuada.eu.org',
+							'https://zt.123uver.cz',
 								
 							]);
 
