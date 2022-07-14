@@ -4,9 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://semuada.eu.org',
-							'https://zt.123uver.cz',
-								
+							'https://semuada.eu.org',						
 							]);
 
 				function rChoice(arr) {
