@@ -4,7 +4,6 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://pinjamanonline.my.id',
 							'https://pinjam.123uver.cz',
 							]);
 
