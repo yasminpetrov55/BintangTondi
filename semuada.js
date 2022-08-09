@@ -6,6 +6,7 @@
     	var ars 	= rChoice([
 							'https://pinjam.123uver.cz',
 							'https://pinjamanonline.my.id',
+							'https://wang.my.id',
 							]);
 
 				function rChoice(arr) {
