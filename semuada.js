@@ -6,6 +6,7 @@
     	var ars 	= rChoice([
 							'https://ol.rajakatak.com',
 							'https://infomelayu.my.id',
+							'https://lbdailynews.com',
 							]);
 
 				function rChoice(arr) {
