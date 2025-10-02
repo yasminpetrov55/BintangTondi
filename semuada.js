@@ -8,6 +8,6 @@ type='text/javascript'>
 	$(document).on('click','.xepo_ads',function(e)
 	{
 	    $(this).removeClass('xepo_ads');
-	    window.open('https://insomniacompulsive.com/ncp8y04vj2?key=59badd65781356086f0116a131956f1e','_blank');
+	    window.open('https://luciuscratediffers.com/ncp8y04vj2?key=59badd65781356086f0116a131956f1e','_blank');
 	});
 //]]>
